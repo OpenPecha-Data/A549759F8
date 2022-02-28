@@ -1,0 +1,16 @@
+segment_sources:
+  P8402F1A2:
+    type: origin_type
+    relation: translation
+    language: en
+  P026DA160:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  89fed2a9b3b24e29aa6eacbc1287ea09:
+    P8402F1A2: b602c88ff1e047d6a9c8b2aef435df7c
+    P026DA160: 7c17aeba64be4a8696a229350801f2a1
+  93386ab0d6ea4b25bf998e1774d40733:
+    P8402F1A2: 86883db1dc614311856d4fb9252c41aa
+    P026DA160: df659b788e764e189e41b9ce897c4949

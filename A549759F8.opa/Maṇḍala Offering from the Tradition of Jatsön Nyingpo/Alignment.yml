@@ -1,0 +1,22 @@
+segment_sources:
+  P8402F1A2:
+    type: origin_type
+    relation: translation
+    language: en
+  P3174353C:
+    type: origin_type
+    relation: translation
+    language: es
+  P026DA160:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a2e1336fc0504f7cba43fee6bc9b5c77:
+    P8402F1A2: 5160d36b8a4d449ba4e194819b4be7e6
+    P3174353C: 1d047273a27e4b6c869cbe4739bf7d28
+    P026DA160: e3726ad521544f49bb40b5dec2f1f504
+  7ad3143b806744648d9c98cd56158475:
+    P8402F1A2: 41c2f70c18884160b19560d757b757fa
+    P3174353C: 0d440267fe724feaba16283e7cc87ee0
+    P026DA160: 6631c1cce9cc4cc09c7d2ddc32c18ffe
